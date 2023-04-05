@@ -1,10 +1,10 @@
 {
-  "name": "pop-quiz-backend",
+  "name": "base-auth-jwt-api-nestjs",
   "version": "0.0.1",
   "description": "",
   "author": "Juan Navas <iam@juannavas.dev>",
   "private": false,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
