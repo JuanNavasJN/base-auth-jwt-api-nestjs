@@ -32,6 +32,8 @@ $ npm install
 ## Required environment variables
 
 ```bash
+PORT=
+
 MONGODB_URI=
 
 MAIL_HOST=
@@ -40,11 +42,7 @@ MAIL_USER=
 MAIL_PASSWORD=
 MAIL_FROM=
 
-AWS_KEY_ID=
-AWS_SECRET_KEY=
-AWS_S3_BUCKET=
-
-UNSPLASH_KEY=
+FRONTEND_HOST=
 ```
 
 ## Running the app
